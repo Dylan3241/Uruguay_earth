@@ -1,0 +1,59 @@
+map_channel_id: 1466266552885051423
+map_url: https://earth.dextrality.net/
+
+tickets_category_id: 1466266508454789323
+support_role_id: 1466266436145123380
+tickets_log_channel_id: 1466266580831834135
+max_open_tickets_per_user: 1
+
+tickets_category_bank_id: 1466266512175267880
+
+channel_alliance_id: 1466266550704144447
+channel_enemy_id: 1466266552188797112
+citizen_role_id: 1466266408022442005
+channel_projects_id: 123456789012345678
+
+bank_panel_channel_id: 1466266593335181354
+
+ministry_security_id: 1466266342046040108
+ministry_defense_id: 1466266343224639669
+ministry_interior_id: 1466266344772210713
+ministry_economy_id: 1466266348652073046
+ministry_foreign_relations_id: 1466266349973274770
+ministry_infrastructure_id: 1466266351244021790
+ministry_agriculture_id: 1466266352074362946
+ministry_housing_id: 1469916493813907670
+ministry_transport_id: 1469916557055365241
+
+channel_security_id: 1466266570392211598
+channel_defense_id: 1466266566285852867
+channel_interior_id: 1466266567129169941
+channel_economy_id: 1466266565149462598
+channel_foreign_relations_id: 1466266563614343221
+channel_infrastructure_id: 1466266568307642675
+channel_agriculture_id: 1466266572288032995
+channel_housing_id: 1466266574515212390
+channel_transport_id: 1466266578252464323
+
+# BANCO
+
+channel_bank_info_id: 1466266595692380343
+channel_bank_logs_id: 1466266580831834135
+channel_bank_public_funds_id: 1466266594555461664
+channel_bank_mechanics_id: 1466266597357387837
+
+bank_staff_role_id: 1466266436145123380
+
+# BIENVENIDA / DESPEDIDA
+
+welcome_channel_id: 1466266522832994564
+farewell_channel_id: 1466266526796746936
+
+auto_role_on_join_id:   
+    - 1466266420450164911
+    - 1466266406789185556
+    - 1466266414318096599
+
+rules_channel_id: 1466266545142497434
+
+
